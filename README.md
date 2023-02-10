@@ -5,7 +5,7 @@
 
 Skills: C / C# / JAVA
 
-- 🔭 I’m currently working on this page. 
+
 - 🌱 I’m currently learning Python. 
 - 👯 I’m looking to collaborate on github. 
 - 📫 How to reach me: asaduzzamanpersonal123@gmail.com 
