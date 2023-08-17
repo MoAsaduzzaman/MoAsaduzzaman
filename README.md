@@ -13,11 +13,12 @@ Skills: C / JAVA / C#
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/MoAsaduzzaman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/md-asaduzzaman-56790324a/)   
 
 ![GitHub metrics](https://metrics.lecoq.io/MoAsaduzzaman)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=MoAsaduzzaman)  
+![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MoAsaduzzaman)
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MoAsaduzzaman&show_icons=true&locale=en" alt="MoAsaduzzaman" /></p>
-![GitHub streak stats](https://streak-stats.demolab.com/?user=MoAsaduzzaman)  
-![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MoAsaduzzaman)
+
 
 
 
