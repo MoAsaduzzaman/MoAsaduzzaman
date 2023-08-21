@@ -11,8 +11,6 @@ Skills: C / JAVA / C#
 - Reach me <b>md35-858@diu.edu.bd</b>
 
 ![GitHub metrics](https://metrics.lecoq.io/MoAsaduzzaman)  
-![GitHub streak stats](https://streak-stats.demolab.com/?user=MoAsaduzzaman)  
-![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MoAsaduzzaman)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MoAsaduzzaman&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MoAsaduzzaman&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
