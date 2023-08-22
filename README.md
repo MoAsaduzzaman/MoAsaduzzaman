@@ -13,7 +13,7 @@ Skills: C / JAVA / C#
 
 ![GitHub metrics](https://metrics.lecoq.io/MoAsaduzzaman)  
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=MoAsaduzzaman&theme=default&hide_border=false)<br/>![GitHub streak stats](https://streak-stats.demolab.com/?user=MoAsaduzzaman)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=MoAsaduzzaman)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MoAsaduzzaman&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
