@@ -3,11 +3,11 @@
 [![](https://visitcount.itsvg.in/api?id=MoAsaduzzaman&icon=0&color=0)](https://visitcount.itsvg.in)
 ![Security Researcher || CTF Player](https://github.com/CrazyChickenDev/CrazyChickenDev/raw/master/assets/source.gif)
 
-I'm an enthusiastic undergraduate at Daffodil International University, specializing in Software Engineering. My fascination with cybersecurity led me to become a dedicated researcher,skilled CTF player and also a programmer. Committed to fortifying digital landscapes through learning and innovation.
+I'm an enthusiastic undergraduate at [Daffodil International University](https://daffodilvarsity.edu.bd/), specializing in Software Engineering. My fascination with cybersecurity led me to become a dedicated researcher,skilled CTF player and also a programmer. Committed to fortifying digital landscapes through learning and innovation.
 
 Programming Language Expert On: [C](https://en.wikipedia.org/wiki/C_(programming_language))
 
-- I’m currently working on [Cyber Security Center](https://www.facebook.com/CSCDIU) DIU 
+- I’m currently working on [Cyber Security Center](https://www.facebook.com/CSCDIU) [DIU](https://daffodilvarsity.edu.bd/) 
 - I’m currently learning [CCNA](https://www.netacad.com/courses/networking/ccna-introduction-networks)
 - Reach me <b>md35-858@diu.edu.bd</b> 
 
