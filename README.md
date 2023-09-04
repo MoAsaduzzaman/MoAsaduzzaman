@@ -11,8 +11,6 @@ Programming Language Expert On: [C](https://en.wikipedia.org/wiki/C_(programming
 - I’m currently learning [CCNA](https://www.netacad.com/courses/networking/ccna-introduction-networks)
 - Reach me <b>md35-858@diu.edu.bd</b> 
 
-![GitHub metrics](https://metrics.lecoq.io/MoAsaduzzaman)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=MoAsaduzzaman)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MoAsaduzzaman&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
