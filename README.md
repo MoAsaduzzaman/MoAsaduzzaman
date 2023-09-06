@@ -5,7 +5,7 @@
 
 I'm an enthusiastic undergraduate at [Daffodil International University](https://daffodilvarsity.edu.bd/), specializing in Software Engineering. My fascination with cybersecurity led me to become a dedicated researcher,skilled CTF player and also a programmer. Committed to fortifying digital landscapes through learning and innovation.
 
-Programming Language Expert On: [C](https://en.wikipedia.org/wiki/C_(programming_language))
+Programming Language Expert On: [C](https://en.wikipedia.org/wiki/C_(programming_language)) / [C++](https://en.wikipedia.org/wiki/C%2B%2B) 
 
 - I’m currently working on [Cyber Security Center](https://www.facebook.com/CSCDIU) [DIU](https://daffodilvarsity.edu.bd/) 
 - I’m currently learning [CCNA](https://www.netacad.com/courses/networking/ccna-introduction-networks)
