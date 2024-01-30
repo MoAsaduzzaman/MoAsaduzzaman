@@ -7,14 +7,14 @@ I'm an enthusiastic undergraduate at [Daffodil International University](https:/
 
 <b>Programming Language expert on:</b> [C](https://en.wikipedia.org/wiki/C_(programming_language)) , [C++](https://en.wikipedia.org/wiki/C%2B%2B) , [Java](https://en.wikipedia.org/wiki/Java_(programming_language)) , [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 
-<b>Engaged in ongoing education</b>
-- [Complete Web Development Course With Jhankar Mahbub (Level-1)](https://web.programming-hero.com/course-details)
-
+<b>Certified On:</b> 
+- [CCNA: Enterprise Networking, Security, and Automation](https://www.credly.com/badges/2dc16aa7-2ac4-4ce5-8399-354b3e3eeb95)
+  
 <b>Engaged in the development of</b>
 - [Cyber Security Center](https://www.facebook.com/CSCDIU) [DIU](https://daffodilvarsity.edu.bd/) 
 
-<b>Certified On:</b> 
-- [CCNA: Enterprise Networking, Security, and Automation](https://www.credly.com/badges/2dc16aa7-2ac4-4ce5-8399-354b3e3eeb95)
+<b>Engaged in ongoing education</b>
+- [Complete Web Development Course With Jhankar Mahbub (Level-1)](https://web.programming-hero.com/course-details)
 
 <b>Contact:</b>
 - <b>md35-858@diu.edu.bd</b>
