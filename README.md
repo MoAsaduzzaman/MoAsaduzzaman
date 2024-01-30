@@ -7,7 +7,7 @@ I'm an enthusiastic undergraduate at [Daffodil International University](https:/
 
 <b>Programming Language expert on:</b> [C](https://en.wikipedia.org/wiki/C_(programming_language)) , [C++](https://en.wikipedia.org/wiki/C%2B%2B) , [Java](https://en.wikipedia.org/wiki/Java_(programming_language)) , [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 
-<b>Certified On:</b> 
+<b>Certified on</b> 
 - [CCNA: Enterprise Networking, Security, and Automation](https://www.credly.com/badges/2dc16aa7-2ac4-4ce5-8399-354b3e3eeb95)
   
 <b>Engaged in the development of</b>
