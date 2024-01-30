@@ -5,13 +5,13 @@
 
 I'm an enthusiastic undergraduate at [Daffodil International University](https://daffodilvarsity.edu.bd/), specializing in Software Engineering. My fascination with cybersecurity led me to become a dedicated researcher,skilled CTF player and also a programmer. Committed to fortifying digital landscapes through learning and innovation.
 
-<b>Programming Language expert on:</b> [C](https://en.wikipedia.org/wiki/C_(programming_language)) , [C++](https://en.wikipedia.org/wiki/C%2B%2B) , [Java](https://en.wikipedia.org/wiki/Java_(programming_language)) , - [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+<b>Programming Language expert on:</b> [C](https://en.wikipedia.org/wiki/C_(programming_language)) , [C++](https://en.wikipedia.org/wiki/C%2B%2B) , [Java](https://en.wikipedia.org/wiki/Java_(programming_language)) , [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 
 <b>Engaged in ongoing education</b>
-- I’m currently learning [Complete Web Development Course With Jhankar Mahbub (Level-1)](https://web.programming-hero.com/course-details)
+- [Complete Web Development Course With Jhankar Mahbub (Level-1)](https://web.programming-hero.com/course-details)
 
 <b>Engaged in the development of</b>
-- I’m currently working on [Cyber Security Center](https://www.facebook.com/CSCDIU) [DIU](https://daffodilvarsity.edu.bd/) 
+- [Cyber Security Center](https://www.facebook.com/CSCDIU) [DIU](https://daffodilvarsity.edu.bd/) 
 
 <b>Certified On:</b> 
 - [CCNA: Enterprise Networking, Security, and Automation](https://www.credly.com/badges/2dc16aa7-2ac4-4ce5-8399-354b3e3eeb95)
